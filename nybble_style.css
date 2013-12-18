@@ -1,0 +1,201 @@
+#menu ul li .submenu .submenu-item .catalog-thumb a {padding: 0;}
+/*
+#menu ul li .submenu .submenu-item .catalog-thumb a img {
+    padding: 5px 0 0 5px;
+}
+*/
+/* The pull prompt  */
+.scheme {width: 600px;}
+.oran {color: rgb(255, 0, 0);}
+.phone-widgets ul li a.f_ajax {font-size: 20px;}
+#bath_select {/*position: relative; left: 200px;*/ display: none;}
+.btn-find {
+}
+.btn-find a {
+    color: rgb(255, 255, 255);
+    display: table-cell;
+    width: 100px;
+    height: 30px ;
+    background-color: rgb(255, 138, 0);
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-find a:hover {text-decoration: none;}
+
+grid-1_old {
+      display:block;
+      float: left;
+      margin-left: 10px;
+      margin-right: 10px;
+      word-wrap: break-word;
+      z-index:1;
+      width: 300px;
+}
+
+.pg-img .gp-pick-left a{
+    background-image: url('/images/images_old.png');
+}
+
+.pg-img .gp-pick-right a{
+    background-image: url('/images/images_old.png');
+}
+
+.pg-img .gp-order-left a{
+    background-image: url('/images/images_old.png');
+}
+
+.pg-img .gp-order-right a{
+    background-image: url('/images/images_old.png');
+}
+
+#menu ul li .submenu .submenu-item .catalog-thumb img{
+    height: 55px;
+    width: 55px;
+    padding-left: 10px;
+}
+
+.navigation ul li {
+    float: left;
+    list-style: none;
+}
+#menu-wrapper-off #menu-wrapper-button h3, #menu-wrapper-off .brand-wrapper-button h3 a {color:rgb(255, 255, 255);}
+#menu-wrapper-off #menu-wrapper-button h3, #menu-wrapper-off .brand-wrapper-button h3 a:hover {text-decoration: none;}
+#content {padding-top: 0px;}
+.content_wrapper {padding:0 10px;}
+.mod .it-wrapper {margin: 0;}
+.navigation ul li ul li {z-index: 10000;}
+
+.text_wrapper,
+.text_wrapper_wi{
+  position:relative;
+  width:800px;
+  left:50%;
+  margin-left:-400px;
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Firefox */
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Safari и Chrome */
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+  padding: 10px;
+ }
+
+.brand_table {border-collapse: collapse; width:90%;}
+.brand_table tr td {border-bottom: 1px dashed #999;}
+#header-wrapper {position: relative; z-index:300;}
+
+/* Style hack for social buttons  */
+
+#header .hd7 .social ul li.our-tw a{ background-position:-0px 0px; }
+#header .hd7 .social ul li.our-fb a{ background-position:-40px 0px; }
+#header .hd7 .social ul li.our-vk a{ background-position:-80px 0px; }
+#header .hd7 .social ul li.our-ok a{ background-position:-120px 0px; }
+#header .hd7 .social ul li.our-yt a{ background-position:-160px 0px; }
+
+#header .hd7 .social ul li.our-tw a:hover{ background-position:-0px -30px; }
+#header .hd7 .social ul li.our-fb a:hover{ background-position:-40px -30px; }
+#header .hd7 .social ul li.our-vk a:hover{ background-position:-80px -30px; }
+#header .hd7 .social ul li.our-ok a:hover{ background-position:-120px -30px; }
+#header .hd7 .social ul li.our-yt a:hover{ background-position:-160px -30px; }
+
+.text_wrapper{text-align: justify; text-indent: 2em;}
+/*.text_wrapper table tr td {text-indent: 0;}*/
+.service_center {color: #f00;}
+
+.legend {display:table-cell; vertical-align:middle; line-height: 50px;}
+.legend img {vertical-align: middle;}
+
+.light_grey{
+  background-color: rgb(210, 210, 210);
+}
+#countries ul{
+  padding-top: 30px;
+}
+#countries ul li{
+  float: left;
+  padding: 10px 20px;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.5em;
+  border-left: solid 1px #999;
+  border-right: solid 1px #999;
+  border-top: solid 1px #999;
+  border-radius: 15px 15px 0 0;  
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Firefox */
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Safari и Chrome */
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+.country_active{
+  background-color: rgb(255, 138, 0);
+}
+
+#countries ul li:hover{
+  background-color: rgb(200, 200, 200);
+  color: rgb(255, 255, 255);
+}
+
+#partner_cities select,
+#partner_regions select{
+  height: 20px;
+  line-height: 1em;
+  color:red;
+  margin: 30px 0;
+  width: 300px;
+  float: left;
+}
+#partner_cities select{ margin-left: 30px;}
+#partner_cities select option,
+#partner_regions select option{
+  height: 20px;
+}
+#partnerTable{
+  margin-top: 30px;
+}
+table.zebra {text-align: left; text-indent: 0;}
+#menu-wrapper {display: none;}
+#flexwrapper {display:none;}
+#about_block p {height: 50px; overflow: hidden;}
+#menu ul li .submenu a.submenu-expand {background-position: 0px 0px;}
+#menu ul li .submenu a.submenu-expand: hover {background-position: 0px 0px;}
+.add_param {margin: 8px; padding: 5px 5px; border: solid 1px $f0f0f0; border-radius: 8px; background-color: rgb(221,221,221); line-height: 2.5;}
+.add_param:hover {background-color: rgb(153,153,153); color: #fff;}
+.it-button a {color:#000; text-decoration: none;}
+.grid-08{float: left; width:100px;}
+.n_cont ul li {float: none; list-style-type: disc; list-style-position: inside; width: 100%; display: list-item;}
+#bath_select, 
+#bath_select .h,
+#bath_select #frmpodbor p {
+  background-color: rgb(255,139,0);
+  color: #fff; 
+  font-weight: bold;
+}
+#bath_select {
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Firefox */
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Для Safari и Chrome */
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+#bath_select:hover {
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.9); /* Для Firefox */
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.9); /* Для Safari и Chrome */
+  box-shadow: 0 0 10px rgba(0,0,0,0.9); /* Параметры тени */
+}
+#bath_select #frmpodbor .intext input {
+  width: 50px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  background-image: none;
+}
+#bath_select #frmpodbor .btn-find a {background-position: -50px -350px;}
+#bath_select #frmpodbor .btn-find a:hover {background-position: -50px -380px;}
+#header .hd5 .sbtn {margin-left: 5px; width:60px;}
+.u_search {padding:6px 0 0 6px;}
+.newitem img {float: left;}
+.newitem h2 {text-indent: 0;}
+.newitem h2 a {color: rgb(255, 139, 0); text-decoration: none;}
+.card-2 h3 {font-size: 20px;}
+.mod ul li {width: 500px;}
+.eq_title {color: rgb(255,138,0); font-weight: bold; font-size: 1.5em; padding-top: 10px;}
+#bath_select #frmpodbor .btn-find a {text-indent: 0;}
